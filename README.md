@@ -3,7 +3,7 @@ Just a simple crapy tow player game on web application
 
 - How to play:
   - The goal:
-    The goal is to get to 10 points first. You get points by eating the food(the deep green tile)
+    is to get to 10 points first. You get points by eating the food(the deep green tile)
     
   - Controls:
     Player one(red) moves with the arrow keys and player tow(blue) with thw WASD keys.
